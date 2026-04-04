@@ -1,0 +1,1 @@
+# avito-qa-internship-2026
